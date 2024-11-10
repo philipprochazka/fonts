@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mystical Woods';
+    src: local('Mystical Woods Smooth Script'), local('Mystical-Woods-Smooth-Script'),
+        url('MysticalWoodsSmoothScript.woff2') format('woff2'),
+        url('MysticalWoodsSmoothScript.woff') format('woff'),
+        url('MysticalWoodsSmoothScript.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }

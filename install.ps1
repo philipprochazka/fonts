@@ -1,3 +1,4 @@
+$GithubDir = "C:\backup\"
 $fontFolderPath = "C:\backup\fonts"
 
 # Get all .otf and .ttf files recursively from the folder

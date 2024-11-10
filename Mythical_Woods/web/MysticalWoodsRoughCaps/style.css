@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mystical Woods';
+    src: local('Mystical Woods Rough Caps'), local('Mystical-Woods-Rough-Caps'),
+        url('MysticalWoodsRoughCaps.woff2') format('woff2'),
+        url('MysticalWoodsRoughCaps.woff') format('woff'),
+        url('MysticalWoodsRoughCaps.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
